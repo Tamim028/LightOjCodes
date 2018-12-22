@@ -1,0 +1,8 @@
+---------initialize git------------------
+git init
+
+---------------adding files-----------------
+git remote add origin url_here
+git add .
+git commit -m "CommitName"
+git push origin master
